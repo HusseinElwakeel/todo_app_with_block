@@ -1,6 +1,8 @@
 # todo_app_with_block
 
-A new Flutter project.
+ToDo App 
+I use in it:
+sqflite ,bloc,flutter_bloc and intl package
 
 ## Getting Started
 
